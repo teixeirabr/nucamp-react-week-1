@@ -28,10 +28,8 @@ class Bootcamp {
 }
 
 // const webDevFundamentals = new Bootcamp("Web Dev", "Beginner");
-// const Trinity = new Student("Trinity", "trinity@matrix.org", "Florida");
-// const Andre = new Student("Andre", "andre@matrix.org", "Florida");
-// const Peter = new Student("Peter", "peter@matrix.org", "Florida");
-// webDevFundamentals.registerStudent(Trinity);
-// console.log(Trinity);
-// webDevFundamentals.registerStudent(Trinity);
-// console.log(Trinity);
+// const trinity = new Student("Trinity", "trinity@matrix.org", "Florida");
+// const andre = new Student("Andre", "andre@matrix.org", "Florida");
+// const peter = new Student("Peter", "peter@matrix.org", "Florida");
+// webDevFundamentals.registerStudent(trinity);
+// console.log(trinity);
